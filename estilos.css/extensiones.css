@@ -1,0 +1,13 @@
+body {
+    background-image: url('extefondo.jpg'); 
+    background-size: cover;
+    color: #FAEBD7;
+    text-align: center;
+}
+
+.titulo  {
+    color: darkslategray;
+    border-style: dotted;
+    border-width: thick;
+    border-color: aqua skyblue darkblue;}
+

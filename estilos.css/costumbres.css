@@ -1,0 +1,16 @@
+body {
+    background-image: url('costum.jpg'); 
+    text-align: center;
+    color: aquamarine
+}
+
+.titulo {
+    color: white;
+    border: 10px solid hsl(0, 0%, 100%);
+}
+
+.texto {
+    text-align: right;
+    border: 2px solid blue;
+}
+

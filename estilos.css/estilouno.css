@@ -1,0 +1,22 @@
+body {
+    color: #800000;
+    text-align: center;
+    background-image: url('iglesia3.jpg');
+    background-size: cover;
+}
+
+.titulo {
+    color: #FFD700;
+    text-align: center;
+    font-size: 70px;
+    font-weight: bold;
+}
+
+.enlaces {
+    text-align: center;
+}
+
+.enlaces a {
+    display: block;       
+    color: #800000;       
+}
